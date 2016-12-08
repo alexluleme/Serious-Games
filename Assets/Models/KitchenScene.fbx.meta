@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 4e3e64ab5468f9e42a0dd565871ed51b
+timeCreated: 1440434339
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BurnerBase
+    100002: BurnerKnob
+    100004: BurnerLight
+    100006: BurnerTop
+    100008: CabinetDoors
+    100010: Cabinets
+    100012: CounterBackwall
+    100014: CounterBase
+    100016: CounterTop
+    100018: //RootNode
+    100020: Pot
+    400000: BurnerBase
+    400002: BurnerKnob
+    400004: BurnerLight
+    400006: BurnerTop
+    400008: CabinetDoors
+    400010: Cabinets
+    400012: CounterBackwall
+    400014: CounterBase
+    400016: CounterTop
+    400018: //RootNode
+    400020: Pot
+    2300000: BurnerBase
+    2300002: BurnerKnob
+    2300004: BurnerLight
+    2300006: BurnerTop
+    2300008: CabinetDoors
+    2300010: Cabinets
+    2300012: CounterBackwall
+    2300014: CounterBase
+    2300016: CounterTop
+    2300018: Pot
+    3300000: BurnerBase
+    3300002: BurnerKnob
+    3300004: BurnerLight
+    3300006: BurnerTop
+    3300008: CabinetDoors
+    3300010: Cabinets
+    3300012: CounterBackwall
+    3300014: CounterBase
+    3300016: CounterTop
+    3300018: Pot
+    4300000: Pot
+    4300002: BurnerBase
+    4300004: BurnerTop
+    4300006: BurnerKnob
+    4300008: BurnerLight
+    4300010: CounterBase
+    4300012: CabinetDoors
+    4300014: Cabinets
+    4300016: CounterBackwall
+    4300018: CounterTop
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
